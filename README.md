@@ -40,14 +40,6 @@ Los comandos son con Slash commands y con prefijo normal.
 - ;banner
 
 
-
-## Web
-
-Para la documentación del bot completo y su invitación:
-
-[Kurei Bot!](https://n4vv4r-github-io-vercelmirror.vercel.app/)
-
-
 ## Licencia
 
 [AGPL-3.0](https://www.gnu.org/licenses/agpl-3.0.en.html)
