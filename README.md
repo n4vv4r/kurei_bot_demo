@@ -1,14 +1,7 @@
 # kurei_bot_demo
 Source Code (DEMO) del boy Kurei.
 
-Ejemplo del .env
-BOT_TOKEN=
-CLIENT_ID=
-PREFIX=;
-GUILD_ID=  
-DEPLOY_MODE=global                
-## Notas:
-
+# Notas:
 Este proyecto utiliza .env
 #### Ejemplo del .env
 ```env
