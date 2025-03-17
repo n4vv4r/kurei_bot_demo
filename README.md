@@ -1,5 +1,5 @@
 # kurei_bot_demo
-Source Code (DEMO) del boy Kurei.
+Source Code (DEMO) del bot Kurei.
             
 ## Notas:
 
