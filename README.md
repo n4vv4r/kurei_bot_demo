@@ -1,4 +1,4 @@
-# kurei_bot_demo
+# KureiBot (DEMO)
 Source Code (DEMO) del bot Kurei.
             
 ## Notas:
